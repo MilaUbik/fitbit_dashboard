@@ -1,0 +1,16 @@
+[global]
+server.socket_host = 127.0.0.1
+server.socket_port = 8080
+
+[variable]
+date_start = 2017-12-11
+date_end = 2017-12-12
+api_call_left = 150
+
+[connection]
+client_id =
+client_secret =
+redirect_uri = http://localhost:8080/callback
+token =
+refresh_token =
+
