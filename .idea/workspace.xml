@@ -2,7 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="34d9a05c-ad8b-4443-80e4-164c4f61805a" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/fitbit_dashboard.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/config.ini.example" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/fitbit_dashboard/OAuth2Server.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/fitbit_dashboard/Test.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/fitbit_dashboard/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/fitbit_dashboard/influx.py" />
     </list>
     <ignored path="activity/" />
     <ignored path="body/" />
